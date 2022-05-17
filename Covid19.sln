@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{CFBDF4CC-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19Console", "test\Covid19Console\Covid19Console.csproj", "{29525F88-2B63-4E14-999F-C4E9CB9A1B83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19WPFTest", "Covid19WPFTest\Covid19WPFTest.csproj", "{D16C1CC2-6E4D-4E37-8195-B2B4758A9545}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{29525F88-2B63-4E14-999F-C4E9CB9A1B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29525F88-2B63-4E14-999F-C4E9CB9A1B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29525F88-2B63-4E14-999F-C4E9CB9A1B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16C1CC2-6E4D-4E37-8195-B2B4758A9545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16C1CC2-6E4D-4E37-8195-B2B4758A9545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16C1CC2-6E4D-4E37-8195-B2B4758A9545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16C1CC2-6E4D-4E37-8195-B2B4758A9545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{29525F88-2B63-4E14-999F-C4E9CB9A1B83} = {CFBDF4CC-A0E0-415D-8861-E385B7D08CDC}
+		{D16C1CC2-6E4D-4E37-8195-B2B4758A9545} = {CFBDF4CC-A0E0-415D-8861-E385B7D08CDC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {273D926D-11EA-46CF-9968-11511CA35F70}
